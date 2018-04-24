@@ -1,12 +1,15 @@
 # DesignPatterns
-Design Patterns in Java
+An implementation of Design Patterns in Java.
 
 ## Types of Patterns
+- **Creational Patterns**
+  - Abstract Factory
+  - Builder
+  - Factory
+  - Singleton
 
-### Creational Patterns
+- **Structural Patterns**
 
-### Structural Patterns
+- **Behavioral Patterns**
 
-### Behavioral Patterns
-
-### JEE Patterns
+- **JEE Patterns**
