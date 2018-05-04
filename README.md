@@ -7,8 +7,11 @@ An implementation of Design Patterns in Java.
   - Builder
   - Factory
   - Singleton
+  - Prototype
 
 - **Structural Patterns**
+  - Adapter
+  - Bridge
 
 - **Behavioral Patterns**
 
