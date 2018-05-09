@@ -8,10 +8,13 @@ An implementation of Design Patterns in Java.
   - Factory
   - Singleton
   - Prototype
+  -	ObjectPool
 
 - **Structural Patterns**
   - Adapter
   - Bridge
+  - Filter
+  - Composite
 
 - **Behavioral Patterns**
 
