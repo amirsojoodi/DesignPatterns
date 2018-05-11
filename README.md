@@ -15,6 +15,7 @@ An implementation of Design Patterns in Java.
   - Bridge
   - Filter
   - Composite
+  - Decorator
 
 - **Behavioral Patterns**
 
