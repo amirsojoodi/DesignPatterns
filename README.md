@@ -16,6 +16,7 @@ An implementation of Design Patterns in Java.
   - Filter
   - Composite
   - Decorator
+  - Facade
 
 - **Behavioral Patterns**
 
