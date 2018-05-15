@@ -18,6 +18,7 @@ An implementation of Design Patterns in Java.
   - Decorator
   - Facade
   - Flyweight
+  - Proxy
 
 - **Behavioral Patterns**
 
