@@ -21,6 +21,7 @@ An implementation of Design Patterns in Java.
   - Proxy
 
 - **Behavioral Patterns**
+  - Chain of Responsibility
 
 - **JEE Patterns**
 <br>
