@@ -22,6 +22,7 @@ An implementation of Design Patterns in Java.
 
 - **Behavioral Patterns**
   - Chain of Responsibility
+  - Interpreter
 
 - **JEE Patterns**
 <br>
