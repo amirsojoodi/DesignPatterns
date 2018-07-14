@@ -20,4 +20,12 @@ public class Torrent {
     public String toString() {
         return new DictExpression(map).interpret(null);
     }
+
+    public Map<StringExpression, BencodeExpression> getMap() {
+        return map;
+    }
+
+    public void setMap(Map<StringExpression, BencodeExpression> map) {
+        this.map = map;
+    }
 }

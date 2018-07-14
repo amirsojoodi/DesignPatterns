@@ -9,6 +9,14 @@ public class IntegerExpression implements BencodeExpression {
         this.value = value;
     }
 
+    public int getValue() {
+        return value;
+    }
+
+    public void setValue(int value) {
+        this.value = value;
+    }
+
     @Override
     public String interpret(Context ctx) {
         return "i" + value + "e";

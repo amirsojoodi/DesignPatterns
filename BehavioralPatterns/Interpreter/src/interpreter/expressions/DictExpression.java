@@ -21,4 +21,12 @@ public class DictExpression implements BencodeExpression {
         sb.append("e");  //  "d" + value + "e
         return sb.toString();
     }
+
+    public Map<StringExpression, BencodeExpression> getMap() {
+        return map;
+    }
+
+    public void setMap(Map<StringExpression, BencodeExpression> map) {
+        this.map = map;
+    }
 }

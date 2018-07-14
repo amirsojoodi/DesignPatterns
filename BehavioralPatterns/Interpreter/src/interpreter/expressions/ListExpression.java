@@ -19,4 +19,12 @@ public class ListExpression implements BencodeExpression {
         sb.append("e");  //  "l" + value + "e"
         return sb.toString();
     }
+
+    public List<? extends BencodeExpression> getElemList() {
+        return elemList;
+    }
+
+    public void setElemList(List<? extends BencodeExpression> elemList) {
+        this.elemList = elemList;
+    }
 }

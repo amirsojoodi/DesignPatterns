@@ -13,4 +13,12 @@ public class StringExpression implements BencodeExpression {
     public String interpret(Context ctx) {
         return value.length() + ":" + value;
     }
+
+    public String getValue() {
+        return value;
+    }
+
+    public void setValue(String value) {
+        this.value = value;
+    }
 }
